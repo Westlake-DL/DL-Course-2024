@@ -6,9 +6,9 @@ This course introduces methods on neural networks and deep learning, covering ba
 ##  Course Schedule
 
 - **Instructor:** [Stan Z. Li](mailto:stan.zq.li@westlake.edu.cn) and [Tao Lin](mailto:lintao@westlake.edu.cn)
-- **Time:** Wednesday 8:50 am - 12:05 pm
+- **Time:** Wednesday 10:40 am - 12:15 pm
 - **Location:** YunGu E10-205 (in person)
-- **Teaching Assistants:** [Jiangbin Zheng](mailto:zhengjiangbin@westlake.edu.cn), [Ge Wang](mailto:wangge@westlake.edu.cn), [Siyuan Li](mailto:lisiyuan@westlake.edu.cn), [Yufei Huang](mailto:huangyufei@westlake.edu.cn)
+- **Teaching Assistants:** [Jiangbin Zheng](mailto:zhengjiangbin@westlake.edu.cn), [Siyuan Li](mailto:lisiyuan@westlake.edu.cn), [Ge Wang](mailto:wangge@westlake.edu.cn), [Yufei Huang](mailto:huangyufei@westlake.edu.cn)
 - **Schedules and Details:** [Course Schedule for Course Schedule](https://thoracic-feet-9a2.notion.site/Deep-Learning-2024-71a0d28d513d4a14a1d02df7e1037ff7?pvs=4)
 
 
@@ -16,7 +16,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 
 - We will be using Numpy and PyTorch in this class, so you will need to be able to program in Python.
 
-- You will need familiarity with essential calculus (differentiation, chain rule), linear algebra, and basic probability.
+- You might need familiarity with essential calculus (differentiation, chain rule), linear algebra, and basic probability.
 
 
 ## Course Work
