@@ -1,15 +1,20 @@
 ##  Course Description
 
-This course introduces methods on neural networks and deep learning, covering basic machine learning concepts and neural network models, model training and testing, and their applications in image recognition, language processing, and robotics.
+This course introduces methods on neural networks and deep learning, covering basic machine learning concepts and neural network models, model training and testing, and their applications in computer vision, language processing, and robotics.
 
 
 ##  Course Schedule
 
 - **Instructor:** [Stan Z. Li](mailto:stan.zq.li@westlake.edu.cn) and [Tao Lin](mailto:lintao@westlake.edu.cn)
 - **Time:** Wednesday 10:40 am - 12:15 pm
-- **Location:** YunGu E10-205 (in person)
+- **Location:** YunGu E10-205 (in person), Westlake University
 - **Teaching Assistants:** [Jiangbin Zheng](mailto:zhengjiangbin@westlake.edu.cn), [Siyuan Li](mailto:lisiyuan@westlake.edu.cn), [Ge Wang](mailto:wangge@westlake.edu.cn), [Yufei Huang](mailto:huangyufei@westlake.edu.cn)
 - **Schedules and Details:** [Course Schedule for Course Schedule](https://thoracic-feet-9a2.notion.site/Deep-Learning-2024-71a0d28d513d4a14a1d02df7e1037ff7?pvs=4)
+
+
+## News and Updates
+
+[2024-03-20] Assignments hw01-hw03 are available.
 
 
 ## Prerequisites
@@ -22,13 +27,13 @@ This course introduces methods on neural networks and deep learning, covering ba
 ## Course Work
 
 - **Weekly Homeworks** (20%)
-  - There are ten weekly homework assignments, each worth 2%.
+  - There are ten weekly homework assignments, each worth 2%. The answers of all assignments will be provided at the end of the term.
 
 - **Project Proposal** (30%)
   - You need to make a project proposal. **You are encouraged to start early**!
 
 - **Project Presentation** (50%)
-  - You need to make a presentation on the project and submit the associated reports, slides, and codes.
+  - You need to make a presentation on the project and submit the associated reports (or papers), slides, and codes (or demos).
 
 
 ## Documentation
