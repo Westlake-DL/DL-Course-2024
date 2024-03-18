@@ -14,7 +14,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 
 ## News and Updates
 
-[2024-03-20] Assignments hw01-hw03 are available.
+[2024-03-18] Assignments hw01-hw02 are available. You can finish the assignment according to README.
 
 
 ## Prerequisites
