@@ -9,19 +9,21 @@ This course introduces methods on neural networks and deep learning, covering ba
 - **Time:** Wednesday 10:40 am - 12:15 pm
 - **Location:** YunGu E10-205 (in person), Westlake University
 - **Teaching Assistants:** [Jiangbin Zheng](mailto:zhengjiangbin@westlake.edu.cn), [Siyuan Li](mailto:lisiyuan@westlake.edu.cn), [Ge Wang](mailto:wangge@westlake.edu.cn), [Yufei Huang](mailto:huangyufei@westlake.edu.cn)
-- **Schedules and Details:** [Course Schedule for Course Schedule](https://thoracic-feet-9a2.notion.site/Deep-Learning-2024-71a0d28d513d4a14a1d02df7e1037ff7?pvs=4)
+- **Schedules and Details:** [Course Schedule](./syllabus/Schedule.md) and [Course Website](https://thoracic-feet-9a2.notion.site/Deep-Learning-2024-71a0d28d513d4a14a1d02df7e1037ff7?pvs=4)
 
 
 ## News and Updates
 
-[2024-03-18] Assignments hw01-hw02 are available. You can finish the assignment according to README.
+[2024-03-20] Assignments hw01-hw03 are available. Slides of lecture01-lecture03 are updated.
 
 
-## Prerequisites
+## Prerequisites and Materials
 
 - We will be using Numpy and PyTorch in this class, so you will need to be able to program in Python.
 
 - You might need familiarity with essential calculus (differentiation, chain rule), linear algebra, and basic probability.
+
+- You might supplement or expand some knowledge of deep learning through courses online, e.g., [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial).
 
 
 ## Course Work
