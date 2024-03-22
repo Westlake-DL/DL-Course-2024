@@ -29,7 +29,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 ## Course Work
 
 - **Weekly Homeworks** (20%)
-  - There are ten weekly homework assignments, each worth 2%. The answers of all assignments will be provided at the end of the term.
+  - There are 10 weekly homework assignments (each worth 2%) and `hw11` is optional. All answers will be provided at the end of the term.
 
 - **Project Proposal** (30%)
   - You need to make a project proposal. **You are encouraged to start early**!

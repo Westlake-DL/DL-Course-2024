@@ -14,6 +14,6 @@
 | 11   | Project Proposal (2)                       | Project Proposal & Discussions                                 | Tao Lin / Stan Z. Li |
 | 12   | Recursive Neural Networks and Transformers | Homework 9: Experiments on Transformers                        |        Tao Lin       |
 | 13   | Pre-training and Fine-tuning               | Homework 10: Experiments on Self-Supervised Learning           |        Tao Lin       |
-| 14   | Advanced Talk (1): AI for Science          | -                                                              |      Stan Z. Li      |
+| 14   | Advanced Talk (1): AI for Science          | Homework 11*: Single-cell RNA-Seq Visualization (optional)     |      Stan Z. Li      |
 | 15   | Project Report (1)                         | Project Evaluation                                             | Tao Lin / Stan Z. Li |
 | 16   | Project Report (2)                         | Project Evaluation                                             | Stan Z. Li / Tao Lin |
