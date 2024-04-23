@@ -14,8 +14,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 
 ## News and Updates
 
-[2024-04-010] Assignments hw01-hw07 and hw11 are available. Slides of lecture01-lecture03 and 06 are updated.
-
+[2024-04-24] Assignments hw01-hw08 and hw11 are available. Slides of lecture01-lecture06 are updated.
 
 ## Prerequisites and Materials
 
@@ -24,7 +23,6 @@ This course introduces methods on neural networks and deep learning, covering ba
 - You might need familiarity with essential calculus (differentiation, chain rule), linear algebra, and basic probability.
 
 - You might supplement or expand some knowledge of deep learning through courses online, e.g., [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial).
-
 
 ## Course Work
 
@@ -36,7 +34,6 @@ This course introduces methods on neural networks and deep learning, covering ba
 
 - **Project Presentation** (50%)
   - You need to make a presentation on the project and submit the associated reports (or papers), slides, and codes (or demos).
-
 
 ## Documentation
 
