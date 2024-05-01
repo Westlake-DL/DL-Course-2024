@@ -30,7 +30,7 @@ This course introduces methods on neural networks and deep learning, covering ba
   - There are 10 weekly homework assignments (each worth 2%) and `hw11` is optional. All answers will be provided at the end of the term.
 
 - **Project Proposal** (30%)
-  - You need to make a project proposal. **You are encouraged to start early**!
+  - You need to make a [project proposal](./exercises/Project Proposal.docx) with slides (reporting on 05/14/2024). **You are encouraged to start early**!
 
 - **Project Presentation** (50%)
   - You need to make a presentation on the project and submit the associated reports (or papers), slides, and codes (or demos).
